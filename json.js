@@ -148,5 +148,5 @@ let Program = [
     Cost: "Free",
     Deadline: "NA",
     Link: "https://business.howard.edu/office-student-affairs/high-school-summer-enrichment-programs" ,
- },
+ }
 ]
